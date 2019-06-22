@@ -1,1 +1,1 @@
-This is small application that used to regester, update, remove and list location data into/from database. I used Spring Boot, JPA, Hibernate, HTML and CSS to develop this application.
+This is small application that used to register, update, remove, update and to display list of location into/from database. I used Spring Boot, JPA, Hibernate,JSP, MySQL HTML and CSS to develop this application.
